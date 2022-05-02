@@ -6,6 +6,8 @@
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 1em;
     grid-row-gap: 1em;
+    font-family: 'Fira Sans', sans-serif;
+    
     }
     
     .time { grid-area: 1 / 1 / 2 / 2; }
@@ -21,9 +23,12 @@ section {
   /* Relative Parent. Absolute Child */
   position: relative;
 }
-
+h1 {
+  font-family: 'Bebas Neue', cursive;
+}
 /* Time */
 .time {
+  
 }
 
 .hours {

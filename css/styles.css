@@ -8,6 +8,7 @@
     grid-row-gap: 1em;
     font-family: 'Fira Sans', sans-serif;
     text-align: center;
+  
     }
     
     .time { grid-area: 1 / 1 / 2 / 2; }
@@ -18,29 +19,40 @@
 /* Widgets */
 section {
   background: lightgray;
-  padding: 1em;
-  
-  /* Relative Parent. Absolute Child */
+  padding: 2em;
   position: relative;
+  margin: .5em;
 }
+
 h1 {
   font-family: 'Bebas Neue', cursive;
+  font-size: 4.5em;
+}
+h2 {
+  font-size: 2.5em;
 }
 /* Time */
 .time {
   
+  
 }
 
 .hours {
+  font-size: 5.5em;
 }
 
 .minutes {
+  font-size: 5.5em;
 }
 
 .seconds {
+  font-size: 2em;
 }
 
 .amOrPM {
+  font-size: 2em;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 
   
 }
 
@@ -50,15 +62,19 @@ h1 {
 }
 
 .month {
+  font-size: 2.5em;
 }
 
 .dayOfMonth {
+  font-size: 2.5em;
 }
 
 .year {
+  font-size: 1.5em;
 }
 
 .dayOfWeek {
+  font-size: 1.5em;
 }
 
 /* Weather */
@@ -67,10 +83,13 @@ h1 {
 }
 
 .city {
+  font-size: 2.5em;
   
 }
 
 .temp {
+  font-size: 1.5em;
+
   
 }
 

@@ -18,42 +18,47 @@
 
 /* Widgets */
 section {
-  background: lightgray;
-  padding: 2em;
+  background: CadetBlue;
   position: relative;
   margin: .5em;
+  padding: 5em;
+  color: #282828;
+  
 }
 
 h1 {
   font-family: 'Bebas Neue', cursive;
-  font-size: 4.5em;
+  font-size: 7em;
+  color: azure;
+  opacity: 80%;
 }
 h2 {
-  font-size: 2.5em;
+  font-size: 3em;
 }
 /* Time */
 .time {
   
-  
 }
 
 .hours {
-  font-size: 5.5em;
+  font-size: 10em;
+  font-weight: 600;
 }
 
 .minutes {
-  font-size: 5.5em;
+  font-size: 10em;
+  font-weight: 600;
 }
 
 .seconds {
-  font-size: 2em;
+  font-size: 3em;
+  font-weight: 200;
 }
 
 .amOrPM {
-  font-size: 2em;
+  font-size: 3em;
   font-family: 'Fira Sans', sans-serif;
-  font-weight: 
-  
+  font-weight: 400;
 }
 
 /* Date */
@@ -62,19 +67,22 @@ h2 {
 }
 
 .month {
-  font-size: 2.5em;
+  font-size: 4em;
+  font-weight: 600;
 }
 
 .dayOfMonth {
-  font-size: 2.5em;
+  font-size: 4.5em;
+  font-weight: 600;
 }
 
 .year {
-  font-size: 1.5em;
+  font-size: 2.5em;
+  font-weight: 200;
 }
 
 .dayOfWeek {
-  font-size: 1.5em;
+  font-size: 2.5em;
 }
 
 /* Weather */
@@ -83,16 +91,15 @@ h2 {
 }
 
 .city {
-  font-size: 2.5em;
+  font-size: 4.5em;
+  font-weight: 600;
   
 }
 
 .temp {
-  font-size: 1.5em;
+  font-size: 2.5em;
+  font-weight: 400;
 
   
 }
 
-.weather img {
-  
-}

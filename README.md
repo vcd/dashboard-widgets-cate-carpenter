@@ -1,5 +1,10 @@
 # Dashboard Widgets
+My Dashboard Widgets
 
+## Sources
+Green colors: https://html-color.codes/green
+Fonts: https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:wght@300;400;600&display=swap
+Layout: https://cssgrid-generator.netlify.app/
 
 ## What Is This?
 The concept of a Dashboard appears nearly everywhere. Most obvious are car dashboards with displays of speed, mileage, and navigation. Less obvious examples are: the FaceBook banner with notifications, informational displays in lobbies, and “widgets” on iOS and Android. A portion of a larger display is a widget.
@@ -14,5 +19,3 @@ The concept of a Dashboard appears nearly everywhere. Most obvious are car dashb
 * Dashboards convey information in real-time — without prompting
 * Apply concepts from Web Design 1 and 2 with APIs from Web 3
 
-## Citations
-List your sources here

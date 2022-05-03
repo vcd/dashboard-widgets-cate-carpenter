@@ -1,5 +1,5 @@
 // API key. Replace with your API key
-const APIKEY = 'f2f85762267ef18d0df71e18ec9f3737';
+const APIKEY = '4566e879fa06c08d441c5de71a0b579e';
 // City
 const city = 'Forks';
 // Units for Farenheit
@@ -21,13 +21,18 @@ fetch(url)
   
   // Template to output
   const template = `
-  <h2>⛅</h2>
+  <h2>🌧️</h2>
     <h1>Weather</h1>
     <data value="${data.name}" class="city">${data.name}</data>
     <data value="${data.main.temp}" class="temp">${data.main.temp}&#8457;</data>
+    <data value="${data.rain}" class="rain">${data.rain}</data>
   `;
   
   // Insert dynamic template to container
   weatherContainer.insertAdjacentHTML("afterbegin", template);
   
 });
+
+
+
+

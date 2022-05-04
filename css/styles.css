@@ -21,7 +21,7 @@ section {
   background: #a3c1ad;
   position: relative;
   margin: 1em;
-  padding: 1em;
+  padding: .5em;
   color: #1c352d;
   
 }
@@ -33,6 +33,7 @@ h1 {
 }
 h2 {
   font-size: 3em;
+  
 }
 
 /* Time */
@@ -50,6 +51,7 @@ h2 {
 .seconds {
   font-size: 3em;
   font-weight: 200;
+  padding: .1em;
 }
 
 .amOrPM {
@@ -69,15 +71,18 @@ h2 {
 .dayOfMonth {
   font-size: 4.5em;
   font-weight: 600;
+  padding: .1em;
+  
 }
 
 .year {
   font-size: 2.5em;
   font-weight: 200;
+  
 }
 
 .dayOfWeek {
-  font-size: 2.5em;
+  font-size: 3em;
   color: whitesmoke;
 }
 
@@ -90,7 +95,7 @@ h2 {
 }
 
 .temp {
-  font-size: 2.5em;
+  font-size: 7em;
   font-weight: 400;
   
 }

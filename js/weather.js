@@ -23,12 +23,11 @@ fetch(url)
   const template = `
   <h2>🌧️</h2>
     <h1>Weather</h1>
-    <data value="${data.name}" class="city">${data.name}</data>
+    <h4><data value="${data.name}" class="city">${data.name}</data></h4>
     <data value="${data.main.temp}" class="temp">${data.main.temp}&#8457;</data>
     
   <p>rain:
-    <data value="${data.main.rain}" class="p">${data.main.humidity}</data>
-    %</p>
+    <data value="${data.main.rain}" class="p">${data.main.humidity}</data>%</p>
   `;
   
   

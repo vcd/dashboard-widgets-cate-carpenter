@@ -5,6 +5,7 @@ My Dashboard Widgets
 Green colors: https://html-color.codes/green
 Fonts: https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:wght@300;400;600&display=swap
 Layout: https://cssgrid-generator.netlify.app/
+Icon: https://www.flaticon.com/free-icon/forest_2913483?term=forest&page=1&position=1&page=1&position=1&related_id=2913483&origin=search
 
 ## What Is This?
 The concept of a Dashboard appears nearly everywhere. Most obvious are car dashboards with displays of speed, mileage, and navigation. Less obvious examples are: the FaceBook banner with notifications, informational displays in lobbies, and “widgets” on iOS and Android. A portion of a larger display is a widget.

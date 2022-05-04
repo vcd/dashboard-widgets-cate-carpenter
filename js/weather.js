@@ -27,7 +27,7 @@ fetch(url)
     <data value="${data.main.temp}" class="temp">${data.main.temp}&#8457;</data>
     
   <p>rain:
-    <data value="${data.main.rain}" class="rain">${data.main.humidity}</data>
+    <data value="${data.main.rain}" class="p">${data.main.humidity}</data>
     %</p>
   `;
   

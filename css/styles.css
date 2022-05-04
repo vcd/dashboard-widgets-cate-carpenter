@@ -41,6 +41,7 @@ h2 {
 .hours {
   font-size: 10em;
   font-weight: 600;
+  padding: .12em;
 }
 
 .minutes {

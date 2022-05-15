@@ -3,7 +3,7 @@
     "short_name": "Web 3 Starter",
     "description": "Dashboard Widgets by Cate Carpenter",
     "start_url": "/",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "icons": [
